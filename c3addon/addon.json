@@ -1,0 +1,31 @@
+﻿{
+  "is-c3-addon": true,
+  "type": "plugin",
+  "name": "My custom plugin",
+  "id": "MyCustomPlugin",
+  "version": "1.0.0.0",
+  "author": "Author",
+  "website": "https://github.com/crapthings/c3addon-express",
+  "documentation": "https://github.com/crapthings/c3addon-express",
+  "description": "Example custom Construct 3 plugin.",
+  "editor-scripts": [
+    "plugin.js",
+    "type.js",
+    "instance.js"
+  ],
+  "file-list": [
+    "c3runtime/actions.js",
+    "c3runtime/conditions.js",
+    "c3runtime/expressions.js",
+    "c3runtime/instance.js",
+    "c3runtime/plugin.js",
+    "c3runtime/type.js",
+    "lang/en-US.json",
+    "aces.json",
+    "addon.json",
+    "icon.svg",
+    "instance.js",
+    "plugin.js",
+    "type.js"
+  ]
+}
